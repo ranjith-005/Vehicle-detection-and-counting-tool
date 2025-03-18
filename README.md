@@ -1,11 +1,11 @@
 # Vehicle-detection-and-counting-tool
 Vehicle Detection and Counting Tool
 
-Introduction
+#Introduction
 
 This project is a Vehicle Detection and Counting Tool that uses OpenCV and Haar Cascade classifiers to identify and count vehicles in images or video footage. It can be used for traffic analysis, surveillance, and monitoring vehicle movement.
 
-Features
+#Features
 
 Detects and counts vehicles in images and videos
 
@@ -15,7 +15,7 @@ Supports real-time and recorded video processing
 
 Customizable detection models
 
-Technologies Used
+#Technologies Used
 
 Python
 
@@ -27,7 +27,7 @@ PIL (Pillow)
 
 Requests (for fetching images from URLs)
 
-Installation
+#Installation
 
 Prerequisites
 
@@ -37,7 +37,7 @@ pip install opencv-python numpy pillow requests
 
 Usage
 
-Run the Jupyter Notebook:
+#Run the Jupyter Notebook:
 
 Open the provided .ipynb file in Jupyter Notebook or Google Colab.
 
