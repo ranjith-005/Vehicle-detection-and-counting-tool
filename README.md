@@ -1,4 +1,3 @@
-# Vehicle-detection-and-counting-tool
 # 🚗 Vehicle Detection and Counting Tool
 
 ## ✨ Introduction
